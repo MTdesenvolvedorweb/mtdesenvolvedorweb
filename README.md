@@ -51,9 +51,11 @@ HTML5 · CSS3 · JavaScript
 
 ## 📂 Projetos
 
-| Projeto | Descrição | Tecnologias |
+| Projeto | Segmento | Principais recursos |
 |---|---|---|
-| 🍔 [Burger House](https://mtdesenvolvedorweb.github.io/burger-house/) | Website conceitual para hamburgueria | HTML · CSS · JavaScript |
+| 🍔 [Burger House](https://mtdesenvolvedorweb.github.io/burger-house/) | Hamburgueria | Cardápio, filtros, WhatsApp e design responsivo |
+| 💈 [Noble Cut](https://mtdesenvolvedorweb.github.io/noble-cut/) | Barbearia | Serviços, equipe e agendamento via WhatsApp |
+| 🏡 [Casa Aurora](https://mtdesenvolvedorweb.github.io/casa-aurora/) | Hospedagem | Acomodações, galeria e consulta de disponibilidade |
 
 ---
 
