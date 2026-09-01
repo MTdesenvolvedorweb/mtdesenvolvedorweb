@@ -8,24 +8,49 @@ Atualmente estou construindo meu portfólio através de projetos práticos, expl
 
 ---
 
-## 🚀 Projeto em destaque
+## 🚀 Projetos em destaque
 
 ### 🍔 Burger House
 
-Website conceitual desenvolvido para uma hamburgueria artesanal.
+Website conceitual desenvolvido para uma hamburgueria artesanal, com foco na apresentação dos produtos e facilidade para realizar pedidos.
 
-**Tecnologias:**
-HTML5 · CSS3 · JavaScript
+**Principais recursos:**  
+Cardápio interativo · Filtros por categoria · Integração com WhatsApp · Menu responsivo
 
-**Principais recursos:**
-- Design responsivo
-- Cardápio com filtros
-- Menu mobile
-- Integração com WhatsApp
-- Animações e interações
-- SEO básico
+**Tecnologias:** HTML5 · CSS3 · JavaScript
 
-🔗 [Ver projeto](https://mtdesenvolvedorweb.github.io/burger-house/)
+🔗 [Ver site](https://mtdesenvolvedorweb.github.io/burger-house/)  
+📂 [Ver repositório](https://github.com/mtdesenvolvedorweb/burger-house)
+
+---
+
+### 💈 Noble Cut
+
+Website conceitual para uma barbearia moderna, desenvolvido com foco na apresentação dos serviços e conversão de visitantes em agendamentos.
+
+**Principais recursos:**  
+Serviços e preços · Apresentação dos profissionais · Agendamento personalizado · Integração com WhatsApp
+
+**Tecnologias:** HTML5 · CSS3 · JavaScript
+
+🔗 [Ver site](https://mtdesenvolvedorweb.github.io/noble-cut/)  
+📂 [Ver repositório](https://github.com/mtdesenvolvedorweb/noble-cut)
+
+---
+
+### 🏡 Casa Aurora
+
+Website conceitual para uma casa de temporada, desenvolvido com foco na apresentação visual da propriedade e geração de consultas de disponibilidade.
+
+**Principais recursos:**  
+Acomodações · Galeria · Experiências · Consulta de disponibilidade · Integração com WhatsApp
+
+**Tecnologias:** HTML5 · CSS3 · JavaScript
+
+🔗 [Ver site](https://mtdesenvolvedorweb.github.io/casa-aurora/)  
+📂 [Ver repositório](https://github.com/mtdesenvolvedorweb/casa-aurora)
+
+---
 
 ---
 
@@ -47,17 +72,6 @@ HTML5 · CSS3 · JavaScript
 - 💼 Construindo meu portfólio profissional
 - 🚀 Criando soluções digitais para pequenos negócios
 
----
-
-## 📂 Projetos
-
-| Projeto | Segmento | Principais recursos |
-|---|---|---|
-| 🍔 [Burger House](https://mtdesenvolvedorweb.github.io/burger-house/) | Hamburgueria | Cardápio, filtros, WhatsApp e design responsivo |
-| 💈 [Noble Cut](https://mtdesenvolvedorweb.github.io/noble-cut/) | Barbearia | Serviços, equipe e agendamento via WhatsApp |
-| 🏡 [Casa Aurora](https://mtdesenvolvedorweb.github.io/casa-aurora/) | Hospedagem | Acomodações, galeria e consulta de disponibilidade |
-
----
 
 ## 📫 Contato
 
